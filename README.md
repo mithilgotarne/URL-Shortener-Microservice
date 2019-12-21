@@ -1,5 +1,6 @@
 # API Project: URL Shortener Microservice for freeCodeCamp
 
+Demo: https://dust-cloche.glitch.me/
 
 ### User Stories
 
@@ -15,6 +16,8 @@ POST [project_url]/api/shorturl/new - body (urlencoded) :  url=https://www.googl
 #### Usage:
 
 [this_project_url]/api/shorturl/3
+
+eg. https://dust-cloche.glitch.me/api/shorturl/1
 
 #### Will redirect to:
 
